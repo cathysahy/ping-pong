@@ -1,0 +1,10 @@
+[INFO   ] Logger: Record log in /home/cathysahy/tp kivy/.kivy/logs/kivy_26-10-27_1.txt
+[WARNING] Kivy: KIVY_DESKTOP_PATH_ID not set. If your application targets desktop platforms, set it to provide a user-friendly application name for directories. See https://kivy.org/doc/stable/guide/environment.html
+[INFO   ] Kivy: v3.0.0.dev0
+[INFO   ] Kivy: Installed at "/home/cathysahy/tp kivy/kivy_venv/lib/python3.14/site-packages/kivy/__init__.py"
+[INFO   ] Python: v3.14.8 (main, Oct  1 2026, 19:55:55) [GCC 16.2.0]
+[INFO   ] Python: Interpreter at "/home/cathysahy/tp kivy/kivy_venv/bin/python"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[INFO   ] Factory: 199 symbols loaded
+[INFO   ] Image: Providers: img_tex, img_dds, img_pil, img_thorvg_svg (img_ffpyplayer ignored)
